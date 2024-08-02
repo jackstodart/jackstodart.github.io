@@ -1,0 +1,51 @@
+body {
+    margin-top: 2em;
+}
+
+main {
+    text-align: center;
+    margin: 0pt;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Trebuchet MS', Arial;
+}
+
+h1 {
+    font-size: xx-large;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: large;
+    margin-top: 2em;
+}
+
+p {
+    max-width: 600px;
+    font-size: large;
+    font-family: Georgia;
+}
+
+.icon {
+    position: relative;
+    top: 4px;
+}
+
+.email {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+#card,
+#text {
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0.5em;
+}
